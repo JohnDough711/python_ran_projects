@@ -45,7 +45,7 @@
       <recent name="E:\python_ran_projects\ran_password" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ran_password">
+  <component name="RunManager">
     <configuration name="caesar_sipher" type="PythonConfigurationType" factoryName="Python">
       <module name="python_ran_projects" />
       <option name="ENV_FILES" value="" />
