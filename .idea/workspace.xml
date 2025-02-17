@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa46b7ed-dba1-4344-8cb0-be1b65a835ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/coffee_machine/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
       <recent name="E:\python_ran_projects\ran_password" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ran_password">
+  <component name="RunManager">
     <configuration name="caesar_sipher" type="PythonConfigurationType" factoryName="Python">
       <module name="python_ran_projects" />
       <option name="ENV_FILES" value="" />
@@ -115,6 +114,37 @@
       <option name="presentableId" value="Default" />
       <updated>1738627429704</updated>
     </task>
+    <task id="LOCAL-00001" summary="menu">
+      <option name="closed" value="true" />
+      <created>1739803174069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739803174069</updated>
+    </task>
+    <task id="LOCAL-00002" summary="coffe_machine">
+      <option name="closed" value="true" />
+      <created>1739806093139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739806093139</updated>
+    </task>
+    <task id="LOCAL-00003" summary="profit">
+      <option name="closed" value="true" />
+      <created>1739806100684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739806100684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="menu" />
+    <MESSAGE value="coffe_machine" />
+    <MESSAGE value="profit" />
+    <option name="LAST_COMMIT_MESSAGE" value="profit" />
   </component>
 </project>
