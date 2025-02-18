@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa46b7ed-dba1-4344-8cb0-be1b65a835ea" name="Changes" comment="" />
+    <list default="true" id="aa46b7ed-dba1-4344-8cb0-be1b65a835ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/coffee_machine/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coffee_machine/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coffee_machine/money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/coffee_machine/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +39,8 @@
   "keyToString": {
     "Python.${file}.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.menu.executor": "Run",
+    "Python.money_machine.executor": "Run",
     "Python.python_ran_projects.executor": "Run",
     "Python.ran_password.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -46,7 +55,7 @@
       <recent name="E:\python_ran_projects\ran_password" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ran_password">
+  <component name="RunManager">
     <configuration name="caesar_sipher" type="PythonConfigurationType" factoryName="Python">
       <module name="python_ran_projects" />
       <option name="ENV_FILES" value="" />
