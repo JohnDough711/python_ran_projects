@@ -28,24 +28,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.${file}.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_ran_projects.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ran_password.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/python_ran_projects/ran_password.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.${file}.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.python_ran_projects.executor": "Run",
+    "Python.ran_password.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/python_ran_projects/ran_password.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\python_ran_projects\ran_password" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ran_password">
     <configuration name="caesar_sipher" type="PythonConfigurationType" factoryName="Python">
       <module name="python_ran_projects" />
       <option name="ENV_FILES" value="" />
